@@ -2,6 +2,7 @@
   "name": "tomato-clock",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hypster.github.io/tomato-clock/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -9,7 +10,6 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-redux": "^7.2.4",
     "react-scripts": "4.0.3"
   },
   "scripts": {
