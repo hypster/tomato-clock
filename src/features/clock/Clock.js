@@ -31,7 +31,7 @@ export default class Clock extends React.Component {
     super(props)
     
     this.state = initialState
-    this.INTERVAL = 50
+    this.INTERVAL = 1000
     this.audioRef = React.createRef()
     this.sessionIndicator = React.createRef()
     this.animationTimer = 0
